@@ -67,3 +67,42 @@ a:hover
     padding-bottom: 200px;
     float:right;
 }
+
+
+.content
+{
+    text-align: center;
+    font-family:'Kalam';
+}
+
+table, tr, td, th
+{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td
+{
+    padding: 5px;
+}
+
+tr
+{
+    background-color: mintcream;
+}
+
+tr:nth-child(odd)
+{
+    background-color: mistyrose;
+}
+
+th
+{
+    background-color: black;
+    color: azure;
+}
+
+tr:hover
+{
+    background-color: blueviolet;
+}
