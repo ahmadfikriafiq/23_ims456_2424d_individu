@@ -73,12 +73,7 @@ a:hover
 }
 
 
-.content
-{
-    text-align: center;
-    font-family:'Kalam';
-    
-}
+
 
   
   table, th, tr, td {
@@ -210,3 +205,4 @@ tr:hover
     color: #555;
     line-height: 1.6;
   }
+
